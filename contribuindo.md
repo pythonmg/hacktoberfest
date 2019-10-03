@@ -1,6 +1,6 @@
 # :package: Nosso primeira contribuição.
 
-Serão necessárias 4 contribuições para ganhar uma camisa exclusiva, nós vamos te ajudar a ganhar uma deles te ensinando a como contribuir com projetos open source e ao mesmo tempo você irá contribuir com pessoas procurando proetos para contribuir.
+Serão necessárias 4 contribuições para ganhar uma camisa exclusiva, nós vamos te ajudar a realizar uma deles te ensinando a como contribuir com projetos open source e ao mesmo tempo você irá contribuir com pessoas procurando proetos para contribuir.
 
 Esperamos que isto sirva de incentivo para continuar contribuindo mesmo depois de já ter ganho a camisa.
 
