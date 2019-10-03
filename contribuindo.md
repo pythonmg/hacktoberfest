@@ -93,6 +93,8 @@ A nossa cópia está apenas em nossa conta do github, precisamos traze-la para n
 
 Vamos fazer um "*clone*" do nosso repositório.
 
+:warning: Não esqueça de substituir `<seuusuario>` pelo seu nome de usuário no github
+
 :computer: *windows*
 
 Clique no botão iniciar, digite `cmd` e abra o programa `prompt de comandos`.
@@ -101,13 +103,13 @@ Navegue até o diretório que deseja trabalhar por exemplo `C:\Usuários\Cassio`
 
 :point_right: Uma dica, para navegar entre diretórios utilize o comando `cd`.
 
-Agora digite `git clone https://github.com/pythonmg/hacktoberfest.git`.
+Agora digite `git clone https://github.com/<seuusuario>/hacktoberfest.git`.
 
 :package: *ubuntu*
 
 ```bash
 $ cd ~
-$ git clone https://github.com/pythonmg/hacktoberfest.git
+$ git clone https://github.com/<seuusuario>/hacktoberfest.git
 Cloning into 'hacktoberfest'...
 remote: Enumerating objects: 14, done.
 remote: Counting objects: 100% (14/14), done.
@@ -158,7 +160,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 Vemos que nosso arquivo criado não está rastreado, precisamos então avisar ao controle de versão(git) que monitore este arquivo.
 
-`$ git add participantes/Cássio Botaro.txt`
+`$ git add participantes/Cássio \Botaro.txt`
 
 :floppy_disk: Agora vamos marcar esta versão como salva. Se estivessemos em um jogo de video game é como se estivessemos salvando nosso progresso no jogo.
 
@@ -168,21 +170,37 @@ Vemos que nosso arquivo criado não está rastreado, precisamos então avisar ao
 
 `git push`
 
-###### todo: imagem projeto modificado no github
+![repositório github modificado](imagens/remoto-modificado.png)
 
 ## Pedindo a junção dos códigos
 
-###### todo: imagens do pull request
+Agora é a hora de pedirmos ao repositório que estamos contribuindo a junção das nossas alterações ao repositório original.
+
+Clique no botão "*pull request*".
+
+![botão pull request](imagens/pull-request.png)
+
+Uma página comparando suas alterações com o repositório original será aberta.
+
+![Comparando as alterações](imagens/comparando.png)
+
+Clique no botão verde "*Create pull request*".
+
+Na Nova tela que irá se abrir, coloque um título das modificações que foram feitas.
+
+![Abrindo pull request](imagens/abrindo-pr.png)
+
+E uma descrição detalhada. Será necessário apertar mais uma vez no botão verde para concluir o processo.
+
+![Criando uma pull request](imagens/create-pull-request.png)
 
 ## Parabéns
 
-Meus parabéns! Você realizou sua primeira contribuição em algum projeto open source. 
+Meus parabéns! Você realizou sua primeira contribuição em algum projeto open source.
 
-Volte na sua página de perfil da hacktoberfest e veja que sua barra de progresso aumentou.
+Volte na sua página de [perfil da hacktoberfest](https://hacktoberfest.digitalocean.com/profile) e veja que sua barra de progresso aumentou.
 
-###### todo: imagem barra progresso hacktoberfest
-
-###### todo: imagem do commit
+![commit contabilizado na hacktoberfest](imagens/commit-perfil-hacktober.png)
 
 Espero que seja a primeira de muitas.
 
