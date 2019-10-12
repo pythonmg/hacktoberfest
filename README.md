@@ -4,7 +4,7 @@
 
 # Hacktoberfest
 
-:octocat: Apoie o open source e ganhe uma camisa exclusiva!
+:octocat: Apoie o open source e ganhe uma camisa exclusiva! :octocat:
 
 Este guia foi criado pensando em ajudar a realizar as primeiras contribuições open source, em forma de um passo a passo a ser seguido.
 
