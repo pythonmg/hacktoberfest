@@ -1,4 +1,4 @@
-# :package: Nosso primeira contribuição.
+# :package: Nossa primeira contribuição.
 
 Serão necessárias 4 contribuições para ganhar uma camisa exclusiva, nós vamos te ajudar a realizar uma deles te ensinando a como contribuir com projetos open source e ao mesmo tempo você irá contribuir com pessoas procurando proetos para contribuir.
 
@@ -18,7 +18,7 @@ Siga os passos de acordo com o seu sistema operacional e tenha certeza de que a 
 
 Com certeza você já escreveu um arquivo, mais tarde troca algumas coisas e salva como final. Mais tarde ou no outro dia você decide fazer mais mudanças e chama de "agoravai" e quando menos percebe já tem um monte de arquivos e talvez nem se lembre mais qual a ultima versão.
 
-É para gerenciar alterações feitas no projeto durante o tempo que serve esta ferramenta. 
+É para gerenciar alterações feitas no projeto durante o tempo que serve esta ferramenta.
 
 Durante o guia vamos salvando as alterações feitas sem precisar de ter várias cópias do mesmo arquivo.
 
@@ -57,11 +57,11 @@ git version 2.19.0
 
 Com as ferramentas prontas, vamos contribuir com o primeiro projeto.
 
-Mas como escolher um projeto? Como saber como eu devo proceder e quais as exigências do projeto? 
+Mas como escolher um projeto? Como saber como eu devo proceder e quais as exigências do projeto?
 
 Guarde estas dúvidas, pois serão respondiadas até o final, por enquanto, para aprender os passos de como contribuir, vamos iniciar contribuindo com este guia.
 
-Já estamos com o repositório aberto e estamos vendo os arquivos e diretórios contidos nele. 
+Já estamos com o repositório aberto e estamos vendo os arquivos e diretórios contidos nele.
 
 Vamos começar fazendo um "*fork*" do repositório original.
 
@@ -153,7 +153,7 @@ Your branch is up-to-date with 'origin/master'.
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
-	participantes/Cássio Botaro.txt
+    participantes/Cássio Botaro.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
 ```
@@ -204,9 +204,9 @@ Volte na sua página de [perfil da hacktoberfest](https://hacktoberfest.digitalo
 
 Espero que seja a primeira de muitas.
 
-Agora temos um desafio para você, esse desafio lhe dará sua segunda contribuição e possivelmente mais experiência na linguagem python.
+Vamos agora explorar todo o mundo do open source!
 
-[O desafio :arrow_right:](desafio.md)
+[Procurando mais projetos para contribuir! :arrow_right:](procurando.md)
 
 [:arrow_left: Como participar?](como-participar.md)
 

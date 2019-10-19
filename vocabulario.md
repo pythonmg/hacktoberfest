@@ -1,26 +1,30 @@
 # :bookmark_tabs: Vocabulário
 
-Para te ajudar a não se perder nos termos técnicos utilizados, listamos algumas palavras chaves.
+Para te ajudar a não se perder nos termos técnicos utilizados, listamos algumas palavras mais comuns.
 
-## clone 
+## clone
 
 Comando git para criar uma cópia dos arquivos e suas versões. Pode ser feito para trazer uma cópia do repositório do servidor para o computador local.
 
-## commit 
+## commit
 
 É o conjunto de mudanças que fizemos no código. Pode ser relacionado com o save point em um jogo.
 
-## diretório 
+## diretório
 
 Ou pasta, é uma estrutura utilizada para organizar arquivos em um computador ou um arquivo que contém referências a outros arquivos.
 
-## fork 
+## fork
 
 Pode ser traduzido como "bifurcação", e no nosso contexto é quando fazemos uma cópia do repositório original. Esse novo repositório é independente do original.
 
-## hacktoberfest  
+## hacktoberfest
 
 Evento que ocorre todos os anos para apoiar a contribuição em projetos open source. Algumas empresas se juntam e parabenizam com uma camisa exclusiva a quem contribui.
+
+## issues
+
+São ideias, melhorias, tarefas ou bugs para se trabalhar no Github.
 
 ## pull request
 
