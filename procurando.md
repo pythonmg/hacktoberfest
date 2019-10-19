@@ -2,11 +2,11 @@
 
 :scream: E agora, como vou achar mais projetos para contribuir?
 
-O site oficial da hacktoberfest possui uma lista com alguns projetos precisando de ajuda.
+O site oficial da hacktoberfest possui uma [lista](https://hacktoberfest.digitalocean.com/#projects) com alguns projetos precisando de ajuda.
 
 ![Projetos](imagens/projects.png)
 
-Fazendo uma pesquisa no github, com a tag #hacktoberfest você também vai encontrar vários projetos legais.
+Fazendo uma [pesquisa](https://github.com/search?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest+language%3Apython&state=open&type=Issues) no github, com a tag #hacktoberfest você também vai encontrar vários projetos legais.
 
 ![busca github](imagens/busca-tag-hacktoberfest.png)
 
