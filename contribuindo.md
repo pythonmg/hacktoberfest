@@ -1,6 +1,6 @@
 # :package: Nossa primeira contribuição.
 
-Serão necessárias 4 contribuições para ganhar uma camisa exclusiva, nós vamos te ajudar a realizar uma deles te ensinando a como contribuir com projetos open source e ao mesmo tempo você irá contribuir com pessoas procurando projetos para contribuir.
+Serão necessárias 4 contribuições para ganhar uma camisa exclusiva, nós vamos te ajudar a realizar uma delas te ensinando a como contribuir com projetos open source e ao mesmo tempo você irá contribuir com pessoas procurando projetos para contribuir.
 
 Esperamos que isto sirva de incentivo para continuar contribuindo mesmo depois de já ter ganho a camisa.
 
@@ -16,7 +16,7 @@ Siga os passos de acordo com o seu sistema operacional e tenha certeza de que a 
 
 **Para que serve?**
 
-Com certeza você já escreveu um arquivo, mais tarde troca algumas coisas e salva como final. Mais tarde ou no outro dia você decide fazer mais mudanças e chama de "agoravai" e quando menos percebe já tem um monte de arquivos e talvez nem se lembre mais qual a ultima versão.
+Com certeza você já escreveu um arquivo, mais tarde troca algumas coisas e salva como final. Mais tarde ou no outro dia você decide fazer mais mudanças e chama de "agoravai" e quando menos percebe já tem um monte de arquivos e talvez nem se lembre mais qual a última versão.
 
 É para gerenciar alterações feitas no projeto durante o tempo que serve esta ferramenta.
 
@@ -59,7 +59,7 @@ Com as ferramentas prontas, vamos contribuir com o primeiro projeto.
 
 Mas como escolher um projeto? Como saber como eu devo proceder e quais as exigências do projeto?
 
-Guarde estas dúvidas, pois serão respondiadas até o final, por enquanto, para aprender os passos de como contribuir, vamos iniciar contribuindo com este guia.
+Guarde estas dúvidas, pois serão respondidas até o final, por enquanto, para aprender os passos de como contribuir, vamos iniciar contribuindo com este guia.
 
 Já estamos com o repositório aberto e estamos vendo os arquivos e diretórios contidos nele.
 
@@ -87,9 +87,9 @@ Repare que abaixo do nome do repositório ele indica que aquele repositório é 
 
 ## Modificando os arquivos
 
-Agora temos uma cópia nosso do projeto original, vamos modifica-la, acrescentando nosso nome na lista de participantes da hacktoberfest.
+Agora temos uma cópia nosso do projeto original, vamos modificá-la, acrescentando nosso nome na lista de participantes da hacktoberfest.
 
-A nossa cópia está apenas em nossa conta do github, precisamos traze-la para nosso computador.
+A nossa cópia está apenas em nossa conta do github, precisamos trazê-la para nosso computador.
 
 Vamos fazer um "*clone*" do nosso repositório.
 
@@ -118,7 +118,7 @@ remote: Total 14 (delta 1), reused 8 (delta 0), pack-reused 0
 Unpacking objects: 100% (14/14), done.
 ```
 
-Agora vamos até o diretório onde está , mas não feche a tela preta, pois já voltamos pra ela.
+Agora vamos até o diretório onde está, mas não feche a tela preta, pois já voltamos pra ela.
 
 ![repositório local](imagens/repositorio-local.png "repositório local")
 
@@ -141,9 +141,9 @@ Terminamos de modificar o projeto, vamos agora salvar as alterações feitas.
 
 ## Salvando as alterações feitas
 
-Com o nosso nome já entre os participantes vamos salvar as alterações que fizemos e enviar de volta para o servidor(github).
+Com o nosso nome já entre os participantes vamos salvar as alterações que fizemos e enviar de volta para o servidor (github).
 
-De volta a tela preta vamos utilizar o comando `git status` para checar o que foi feito até agora.
+De volta a tela preta, vamos utilizar o comando `git status` para checar o que foi feito até agora.
 
 ```bash
 $ git status
@@ -158,13 +158,13 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-Vemos que nosso arquivo criado não está rastreado, precisamos então avisar ao controle de versão(git) que monitore este arquivo.
+Vemos que nosso arquivo criado não está rastreado, precisamos então avisar ao controle de versão (git) que monitore este arquivo.
 
 `$ git add participantes/Cássio \Botaro.txt`
 
 :floppy_disk: Agora vamos marcar esta versão como salva. Se estivessemos em um jogo de video game é como se estivessemos salvando nosso progresso no jogo.
 
-`git commit -m "adionando novo participante"`
+`git commit -m "adicionando novo participante"`
 
 :up: Por fim, envie ao github a versão atualizada do projeto.
 
